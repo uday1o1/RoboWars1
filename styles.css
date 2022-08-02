@@ -1,1 +1,17 @@
+body{
+  background-color: #000000;
+}
+/* registration form */
+.reg_form{
+  margin: auto;
+  width: 20%;
+  padding: 10px;
+}
+p{
+  color: #FAF247;
+}
+h1{
+  color: white;
+  text-align: center;
+}
 
