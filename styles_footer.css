@@ -1,0 +1,33 @@
+.footer{
+	text-align: center;
+	background: rgb(0,0,0);
+background: linear-gradient(138deg, rgba(0,0,0,1) 47%, rgba(255,226,0,1) 100%);
+padding: 60px;
+}
+
+.footer p{
+	position: relative;
+	top: 15px;
+	color: white;
+	padding: 0;
+}
+
+.footer-img{
+	width: 70px;
+	display: inline-block;
+padding: 10px;
+transition: 0.6s ease-in-out;
+transform: rotate(-360deg);
+}
+
+.footer-img:hover{
+	transition: 0.6s ease-in-out;
+	transform: rotate(360deg);
+	width: 85px;
+	padding: 5px;
+}
+
+.contacts{
+	padding: 60px;
+	background-color: black;
+	text-align: center;

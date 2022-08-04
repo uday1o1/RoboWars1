@@ -1,0 +1,51 @@
+body{
+  background-color: #000000;
+}
+/* registration form */
+.reg_form{
+  margin: auto;
+  width: 30%;
+  padding: 80px;
+}
+/* .form{
+  background: #000000;
+} */
+label{
+  color: #FAF247;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+p{
+  color: #FAF247;
+  font-size: 17px;
+  font-weight: 500;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+.name{
+  display: flex;
+  flex-direction: row;
+}
+input {
+  font-size: 15px;
+  height: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #666;
+  border: 2px solid #d6d6d6;
+  border-radius: 6px;
+  background: white;
+  outline: none;
+  margin: 3px;
+}
+
+form{
+  text-align: center;
+  border: 5px solid grey;
+  border-radius: 18px;
+  padding: 30px 10px;
+
+}
